@@ -17,3 +17,4 @@ SI = (P × R × T) / 100
 1. Make sure the script file `simple-interest.sh` is executable:
    ```bash
    chmod +x simple-interest.sh
+
