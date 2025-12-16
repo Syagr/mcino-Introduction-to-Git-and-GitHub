@@ -1,0 +1,7 @@
+  bug-fix-typo                c5226df [origin/bug-fix-typo] Fix typo
+* main                        c5226df [origin/main: ahead 1] Fix typo
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo c5226df Fix typo
+  remotes/origin/main         6bf5750 all files
+  remotes/upstream/HEAD       -> upstream/main
+  remotes/upstream/main       ad95b0a Create close_pr.yml
